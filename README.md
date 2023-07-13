@@ -8,8 +8,8 @@ Each of the three types of engines has its own criteria for determining when it 
 The current service criteria are as follows:
 
  	Service criteria
-Capulet Engine	Once every 30,000 miles
-Willoughby Engine	Once every 60,000 miles
+##Capulet Engine	Once every 30,000 miles
+##Willoughby Engine	Once every 60,000 miles
 Sternman Engine	Only when the warning indicator is on
 Spindler Battery	Once every 2 years
 Nubbin Battery	Once every 4 years
