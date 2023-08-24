@@ -27,4 +27,3 @@ With this in mind, it’s very important that the component is extensible and ea
 
 Tacking this functionality onto the current system would be difficult and messy - instead, you have been instructed to take the time to refactor the codebase prior to making the change. The first step of this process is to draft up a new (clean) system architecture that will allow for the seamless inclusion of the new functionality. Your task is to draft and submit a class diagram that maps out how the system will be reorganized.
 
-Now we understand this background information, let’s get started with the task.
